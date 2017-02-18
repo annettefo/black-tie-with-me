@@ -46,8 +46,8 @@ app.run(function(Pubnub, User, $rootScope, ngNotify) {
   Stamplay.init("githublogin");
 
   Pubnub.init({
-    publish_key : "pub-c-c2f74f7c-ef19-433b-b553-357e8460e050",
-    subscribe_key : "sub-c-eda2a9f0-f31c-11e6-819d-0619f8945a4f",
+    publish_key : "",
+    subscribe_key : "",
     ssl : (('https:' === window.location.protocol) ? true : false)
   })
 

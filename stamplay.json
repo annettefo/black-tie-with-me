@@ -1,7 +1,7 @@
 {
-  "appId": "githublogin",
-  "apiKey": "83967cf024ab1a4aad6c2021f90767ed55d25d23d2f51e7464bad92e22991bb6",
-  "public": "./app",
+  "appId": "***",
+  "apiKey": "***",
+  "public": "./",
   "ignore": [
     "stamplay.json",
     "**/.*",
